@@ -1,12 +1,18 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroquintino&count_private=true&hide=contribs,prs,issues&show_icons=true)
+<p>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopedroquintino&count_private=true&hide=contribs,prs,issues&show_icons=true" />
+ </a>
+ <br>
+ <br>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroquintino&layout=compact&hide=cmake,html,css,kotlin" />
+ </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroquintino&layout=compact&hide=cmake,html,css,kotlin)](https://github.com/anuraghazra/github-readme-stats)
-
-
-- 🔭 I’m currently working on <img src="https://camo.githubusercontent.com/1994e9cf3b0ad01831975faafe9e8c7ead09cf24b8d5fb6ca45a5d38b4d33549/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465"/>
-
+- 🔭 I’m currently working on Flutter
 <!-- 
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
